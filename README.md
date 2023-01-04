@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Cooke</h1>
 <h3 align="center">I’m interested in Computer Science & Finding Solutions to Problems!</h3>
 
-- 🌱 I’m currently learning **Neural Networks/Machine Learning, SQL, A lot more.**
+- 🌱 I’m currently learning **ML, Deep Learning, Neural Networks, SQL, A lot more.**
 
 - 📫 How to reach me **bryancooke02@gmail.com**
 
